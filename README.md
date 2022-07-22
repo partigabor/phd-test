@@ -21,4 +21,4 @@ http://htmlpreview.github.io/?https://github.com/partigabor/phd-test/blob/main/d
 
 http://htmlpreview.github.io/?https://github.com/partigabor/phd-test/blob/main/distribution_pepper_annotated.html
 
-http://htmlpreview.github.io/?https://github.com/partigabor/phd-test/blob/main/distribution_tea.html
+http://htmlpreview.github.io/?https://github.com/partigabor/phd-test/blob/main/distribution_tea_annotation.html
