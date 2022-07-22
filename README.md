@@ -1,4 +1,4 @@
-# phd-test
+# phd-thesis-draft
 This repository hosts the data and figures for the PhD thesis of Gábor Parti, which is currently being prepared at The Hong Kong Polytechnic University.
 ⚓  This project is still under work, hence all content here is tentative! ⚓ 
 
